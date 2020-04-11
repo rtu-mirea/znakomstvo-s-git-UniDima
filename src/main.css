@@ -1,0 +1,10 @@
+.square{
+    border-style:solid;
+    border-width:2px;
+    border-color:black;
+    width: 90px;
+    height: 100px;
+    Background:#FFFFFF;
+    color: blue;
+    padding:50px;
+}
